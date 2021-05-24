@@ -8,10 +8,9 @@ Here are all my projects listed by year.
 - Project4
 
 # 2020
-- Project1
-- Project2
-- Project3
-- Project4
+- [Quick OS Info](https://github.com/1ncendium/Quick-OS-Info)
+- [Active Directory tools](https://github.com/1ncendium/AD-Tools)
+- [Project Space](https://incendium.pythonanywhere.com/)
 
 # 2019
 - [Python password generator](https://github.com/1ncendium/Wachtwoordgenerator)
