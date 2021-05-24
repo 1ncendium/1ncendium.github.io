@@ -14,6 +14,5 @@ Here are all my projects listed by year.
 - Project4
 
 # 2019
-- Project1
-- Project2
-- Project3
+- [Python password generator](https://github.com/1ncendium/Wachtwoordgenerator)
+- [Remote Administration Tool (RAT)](https://github.com/1ncendium/LeCendium-RAT)
