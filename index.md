@@ -2,10 +2,7 @@
 Here are all my projects listed by year.
 
 # 2021
-- Project1
-- Project2
-- Project3
-- Project4
+- [Covid Lookup](https://github.com/1ncendium/Covid-lookup)
 
 # 2020
 - [Quick OS Info](https://github.com/1ncendium/Quick-OS-Info)
