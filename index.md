@@ -8,7 +8,7 @@ Below are some of my projects. Also, you should take a look at my TryHackMe & Ha
  [![Incendium](https://www.hackthebox.eu/badge/image/107873)](https://app.hackthebox.eu/profile/107873)
  
 ## TryHackMe
- [![Incendium](https://tryhackme-badges.s3.amazonaws.com/Incendium.png)
+ [![Incendium](https://tryhackme-badges.s3.amazonaws.com/Incendium.png)]
 
 
 ## Projects
