@@ -4,8 +4,8 @@
 I go by Incendium. But you may call me Remco. The #1 thing that interests me is information technology.
 Below are some of my projects. Also, you should take a look at my TryHackMe & HackTheBox account.
 
-### [TryHackMe](https://tryhackme.com/p/Incendium)
-### [HackTheBox](https://app.hackthebox.eu/users/107873)
+## HackTheBox
+ [![Incendium](https://www.hackthebox.eu/badge/image/107873)](https://www.hackthebox.eu/home/users/profile/107873)
 
 
 ## Projects
