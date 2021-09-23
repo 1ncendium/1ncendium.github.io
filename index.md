@@ -1,10 +1,12 @@
 # Portfolio
 
 ## Whoami
-I go by Incendium. But you may call me Remco. I don't care. I was born in 2001. My colleagues bully me because I could be their child. Still I have a great time at the place I am currently working. My job is to support all our customers with their IT infrastructure when needed. Sometimes it is just a computer reboot, but sometimes it can be Malware over a network. In my spare time, I like to code or hack into a new machine from [HackTheBox](hackthebox.eu/).
+I go by Incendium. But you may call me Remco. The #1 thing that interests me is information technology.
+Below are some of my projects. Also, you should take a look at my TryHackMe & HackTheBox account.
 
-## Write ups
-<a href="Write Ups.md">Click here</a>
+## [TryHackMe](https://tryhackme.com/p/Incendium)
+## [HackTheBox](https://app.hackthebox.eu/users/107873)
+
 
 ## Projects
 Here are all my projects listed by year.
