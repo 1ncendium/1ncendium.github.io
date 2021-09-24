@@ -10,7 +10,7 @@ Below are some of my projects. Also, you should take a look at my TryHackMe & Ha
 ## TryHackMe
  [![Incendium](/tryhackme.png)](https://tryhackme.com/p/Incendium)
  ### Badges:
-  - [![Linux](https://tryhackme.com/img/badges/linux.svg)](https://tryhackme.com/Incendium/badges/terminaled)
+  - <img src="https://tryhackme.com/img/badges/linux.svg" alt="drawing" width="200"/>
   - https://tryhackme.com/Incendium/badges/mr-robot
   - https://tryhackme.com/Incendium/badges/burped
   - https://tryhackme.com/Incendium/badges/hash-cracker
