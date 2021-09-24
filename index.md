@@ -9,6 +9,11 @@ Below are some of my projects. Also, you should take a look at my TryHackMe & Ha
  
 ## TryHackMe
  [![Incendium](/tryhackme.png)](https://tryhackme.com/p/Incendium)
+ ### Badges:
+  - https://tryhackme.com/Incendium/badges/terminaled
+  - dd
+  - dd
+  - 
 
 ## Projects
 Here are all my projects listed by year.
