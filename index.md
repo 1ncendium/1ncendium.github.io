@@ -19,11 +19,6 @@ Below are some of my projects. Also, you should take a look at my TryHackMe & Ha
   [<img src="https://tryhackme.com/img/badges/webbed.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/web-fund)
   [<img src="https://tryhackme.com/img/badges/hashcracker.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/hash-cracker)
   [<img src="https://tryhackme.com/img/badges/owasptop10.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/owasp-10)
-  
-  - https://tryhackme.com/Incendium/badges/mr-robot
-  - https://tryhackme.com/Incendium/badges/burped
-  - https://tryhackme.com/Incendium/badges/hash-cracker
-  - https://tryhackme.com/Incendium/badges/blue
 
 ## Projects
 Here are all my projects listed by year.
