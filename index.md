@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Whoami
-I go by Incendium. But you may call me Remco. The #1 thing that interests me, is information technology.
+I go by Incendium. But you may call me Remco. The #1 thing that interests me, is information technology. The second thing that interests me the most is investing.
 Below are some of my projects. Also, you should take a look at my TryHackMe & HackTheBox account.
 
 ## HackTheBox
