@@ -26,7 +26,7 @@ Here are all my projects listed by year.
 ### 2021.txt
 - [Jessica](https://github.com/1ncendium/Jessica)
 - [Covid Lookup](https://github.com/1ncendium/Covid-lookup)
-- [NeuralUpload](https://github.com/1ncendium/Neural-Upload)
+- [Neural-Upload](https://github.com/1ncendium/Neural-Upload)
 
 ### 2020.txt
 - [Quick OS Info](https://github.com/1ncendium/Quick-OS-Info)
