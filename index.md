@@ -1,14 +1,14 @@
-## Whoami
+## ./Whoami
 I go by Incendium. But you may call me Remco. The #1 thing that interests me, is information technology. The second thing that interests me the most is investing.
 Below are some of my projects. Also, you should take a look at my TryHackMe & HackTheBox account.
 
-## HackTheBox
+## ./HackTheBox
  [![Incendium](https://www.hackthebox.eu/badge/image/107873)](https://app.hackthebox.eu/profile/107873)
  
-## TryHackMe
+## ./TryHackMe
  [![Incendium](/tryhackme.png)](https://tryhackme.com/p/Incendium)
  
-## Badges
+## ./Badges
 
   [<img src="https://tryhackme.com/img/badges/linux.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/terminaled)
   [<img src="https://tryhackme.com/img/badges/mrrobot.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/mr-robot) 
@@ -20,18 +20,18 @@ Below are some of my projects. Also, you should take a look at my TryHackMe & Ha
   [<img src="https://tryhackme.com/img/badges/hashcracker.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/hash-cracker)
   [<img src="https://tryhackme.com/img/badges/owasptop10.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/owasp-10)
 
-## Projects
+## ./Projects
 Here are all my projects listed by year.
 
-### 2021
+### 2021.txt
 - [Jessica](https://github.com/1ncendium/Jessica)
 - [Covid Lookup](https://github.com/1ncendium/Covid-lookup)
 
-### 2020
+### 2020.txt
 - [Quick OS Info](https://github.com/1ncendium/Quick-OS-Info)
 - [Active Directory tools](https://github.com/1ncendium/AD-Tools)
 - [Project Space](https://incendium.pythonanywhere.com/)
 
-### 2019
+### 2019.txt
 - [Python password generator](https://github.com/1ncendium/Wachtwoordgenerator)
 - [Remote Administration Tool (RAT)](https://github.com/1ncendium/LeCendium-RAT)
