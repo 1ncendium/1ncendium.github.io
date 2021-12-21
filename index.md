@@ -13,15 +13,15 @@ Below are some of my projects. Also, you should take a look at my TryHackMe & Ha
  
 ## ./Badges
 
-  [<img src="https://tryhackme.com/img/badges/linux.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/terminaled)
-  [<img src="https://tryhackme.com/img/badges/mrrobot.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/mr-robot) 
-  [<img src="https://tryhackme.com/img/badges/burpsuite.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/burped)
-  [<img src="https://tryhackme.com/img/badges/metasploit.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/metasploitable)
-  [<img src="https://tryhackme.com/img/badges/blue.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/blue)
-  [<img src="https://tryhackme.com/img/badges/ohsint.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/ohsint)
-  [<img src="https://tryhackme.com/img/badges/webbed.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/web-fund)
-  [<img src="https://tryhackme.com/img/badges/hashcracker.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/hash-cracker)
-  [<img src="https://tryhackme.com/img/badges/owasptop10.svg" alt="drawing" width="100"/>](https://tryhackme.com/Incendium/badges/owasp-10)
+  [<img src="https://tryhackme.com/img/badges/linux.svg" width="100"/>](https://tryhackme.com/Incendium/badges/terminaled)
+  [<img src="https://tryhackme.com/img/badges/mrrobot.svg" width="100"/>](https://tryhackme.com/Incendium/badges/mr-robot) 
+  [<img src="https://tryhackme.com/img/badges/burpsuite.svg" width="100"/>](https://tryhackme.com/Incendium/badges/burped)
+  [<img src="https://tryhackme.com/img/badges/metasploit.svg" width="100"/>](https://tryhackme.com/Incendium/badges/metasploitable)
+  [<img src="https://tryhackme.com/img/badges/blue.svg" width="100"/>](https://tryhackme.com/Incendium/badges/blue)
+  [<img src="https://tryhackme.com/img/badges/ohsint.svg" width="100"/>](https://tryhackme.com/Incendium/badges/ohsint)
+  [<img src="https://tryhackme.com/img/badges/webbed.svg" width="100"/>](https://tryhackme.com/Incendium/badges/web-fund)
+  [<img src="https://tryhackme.com/img/badges/hashcracker.svg" width="100"/>](https://tryhackme.com/Incendium/badges/hash-cracker)
+  [<img src="https://tryhackme.com/img/badges/owasptop10.svg" width="100"/>](https://tryhackme.com/Incendium/badges/owasp-10)
   [<img src="https://tryhackme.com/img/badges/networkfundamentals.svg" width="100"/>](https://tryhackme.com/Incendium/badges/network-fundamentals)
 
 ## ./Projects
