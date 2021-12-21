@@ -32,6 +32,7 @@ Here are all my projects listed by year.
 - [Jessica](https://github.com/1ncendium/Jessica)
 - [Covid Lookup](https://github.com/1ncendium/Covid-lookup)
 - [Neural-Upload](https://github.com/1ncendium/Neural-Upload)
+- [PynetTools](https://github.com/1ncendium/PynetTools)
 
 ### 2020.txt
 - [Quick OS Info](https://github.com/1ncendium/Quick-OS-Info)
