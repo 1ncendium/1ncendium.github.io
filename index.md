@@ -23,6 +23,7 @@ Below are some of my projects. Also, you should take a look at my TryHackMe & Ha
   [<img src="https://tryhackme.com/img/badges/hashcracker.svg" width="100"/>](https://tryhackme.com/Incendium/badges/hash-cracker)
   [<img src="https://tryhackme.com/img/badges/owasptop10.svg" width="100"/>](https://tryhackme.com/Incendium/badges/owasp-10)
   [<img src="https://tryhackme.com/img/badges/networkfundamentals.svg" width="100"/>](https://tryhackme.com/Incendium/badges/network-fundamentals)
+  [<img src="https://tryhackme.com/img/badges/wireshark.svg" width="100"/>](https://tryhackme.com/Incendium/badges/wireshark)
 
 ## ./Projects
 Here are all my projects listed by year.
