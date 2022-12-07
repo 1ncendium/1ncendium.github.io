@@ -290,7 +290,7 @@ footer {
 #lead-content h1 {
     color: #fff;
     font-weight: 900;
-    font-size: 5em;
+    font-size: 4em;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     line-height: 0.9em
@@ -357,11 +357,11 @@ footer {
 
 #about {
     padding: 75px 15px;
-    border-bottom: 1px solid #dcd9d9
+    border-bottom: 1px solid #dcd9d9;
 }
 
 #about h2 {
-    color: #374054
+    color: #374054;
 }
 
 #about p {
@@ -544,7 +544,15 @@ footer {
 }
 
 .project-image {
-    float: left
+    float: left;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.header-image {
+    width: 80%;
+    text-align: left;
+    margin-bottom: 15px;
 }
 
 .project-info {
