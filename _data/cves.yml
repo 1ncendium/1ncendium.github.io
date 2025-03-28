@@ -1,0 +1,5 @@
+cves:
+  - date: "2024-12-10"
+    cve: "CVE-2024-55653"
+    category: "PwnDoc"
+    link: "https://github.com/pwndoc/pwndoc/security/advisories/GHSA-ggqg-3f7v-c8rc"
