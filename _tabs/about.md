@@ -12,7 +12,7 @@ Hello! My name is Remco van der Meer, and I am a ethical hacker, security resear
 
 ## 🎓 Education
 
-- **Bachelor** in **Science**, Hanzehogeschool - Currently
+- **Bachelor** in **Science**, Hanze - Currently
   - Major in network & security engineering
 
 - **Expert IT Systems & Devices**, Firda - 2020
