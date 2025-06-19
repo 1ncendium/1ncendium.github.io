@@ -1,0 +1,5 @@
+talks:
+  - date: "2025-05-2"
+    talk: "A dive into MS-RPC vulnerabilities and how to find them yourself"
+    conference: "BSides Groningen 2025"
+    link: "/assets/files/A dive into Microsoft Remote Procedure Call.pdf"
