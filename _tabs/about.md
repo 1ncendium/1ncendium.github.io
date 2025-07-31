@@ -46,7 +46,7 @@ Hello! My name is Remco van der Meer, and I am a ethical hacker, security resear
 
 ## 🛠️ Skills
 
-- **Technical Skills**: Word, Excel, PowerPoint
+- **Technical Skills**: I know my way around Microsoft Word.
 - **Tools & Technologies**: An internet connection & nano
 
 ---
