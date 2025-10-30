@@ -7,3 +7,7 @@ cves:
     cve: "CVE-2025-26651"
     category: "Windows"
     link: "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2025-26651"
+  - date: "2025-10-14"
+    cve: "CVE-2025-59253"
+    category: "Windows"
+    link: "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2025-59253"
