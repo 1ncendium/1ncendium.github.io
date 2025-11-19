@@ -421,7 +421,7 @@ I do think Microsoft will fix these vulnerabilities very soon as they have done 
 ## Conclusion
 This post showcased two vulnerabilities within the Spooler service on Windows that causes it to crash. A low privileged user or guest if enabled, can remotely exploit the vulnerability over MS-RPC using the exposed ncacn_ip_tcp endpoint for MS-RPRN.
 
-The [MS-RPC-Fuzzer](github.com/warpnet/MS-RPC-Fuzzer) was used to discover the vulnerabilities. Its capability to do context-aware fuzzing allows reaching more code paths, like calling procedures that take a context handle as input parameter.
+The [MS-RPC-Fuzzer](https://github.com/warpnet/MS-RPC-Fuzzer) was used to discover the vulnerabilities. Its capability to do context-aware fuzzing allows reaching more code paths, like calling procedures that take a context handle as input parameter.
 
 Because of a null pointer dereference, the process crashes and stops the Spooler service. Even though the service starts automatically 3 times, after the 3rd time, manual action is necessary to start the service.
 
