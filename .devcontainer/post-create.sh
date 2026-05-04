@@ -16,3 +16,6 @@ sed -i -E "s/^(plugins=\()(git)(\))/\1\2 zsh-syntax-highlighting zsh-autosuggest
 
 # Avoid git log use less
 echo -e "\nunset LESS" >>~/.zshrc
+
+gem install bundler jekyll
+bundle install
