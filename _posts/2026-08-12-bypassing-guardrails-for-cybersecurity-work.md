@@ -1,6 +1,6 @@
 ---
 title: "Understanding safeguards/guardrails for cybersecurity work to not get blocked"
-description: "Hitting AI guardrails on fronteir models is annoying, therefore this blog explains them and describes how to work around them."
+description: "Hitting AI guardrails on frontier models is annoying, therefore this blog explains them and describes how to work around them."
 author: remco
 date: 2026-08-13 15:31:14 +0200
 categories: [Research, AI]
